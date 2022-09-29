@@ -1,4 +1,4 @@
-SEIR_Model_For_COVID-19_Pandemic
+**SEIR_Model_For_COVID-19_Pandemic**
 
 Following the appearance of the first case of COVID-19 in December 2019 in Wuhan, China,
 there are currently 21,026,758 confirmed cases of COVID-19, including 755,786 deaths,
